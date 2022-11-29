@@ -1,2 +1,19 @@
 
-/* Your CSS Code here. */
+#heading{
+
+    text-align: center;
+    margin-top: 30px;
+}
+.button{
+
+    display: inline-block;
+    margin-left: 10px;
+    
+}
+.form-check{
+    margin-left: 20px;;
+}
+.main-container{
+
+    padding :5px;
+}
